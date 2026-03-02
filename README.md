@@ -37,20 +37,20 @@ Detailed evidence of the testing process and data analysis.
 
   #### 1. Professional Collection Workspace
   Consistent use of HTTP methods (GET, POST, PUT) organized in a clean workspace.
-  ![Postman Sidebar](Screenshot/Postman Sidebar.png)
+  ![Postman Sidebar](Screenshot/Postman_Sidebar.png)
 
   #### 2. Advanced Data Visualization (Data Analyst Skill)
   Transforming raw JSON data into interactive Brand Occurrences and Price charts using Postman Visualizer.
   ![Data Visualization](Screenshot/BrandList.png)
-  ![Price Chart](Screenshot/Price Charts.png)
+  ![Price Chart](Screenshot/Price_Charts.png)
 
   #### 3. Functional Validation (User Management)
   Successful validation of account updates using `form-data` with status 200 OK.
-  ![Account Update](Screenshot/Account Update.png)
+  ![Account Update](Screenshot/Account_Update.png)
 
   #### 4. API Response Dashboard
   Professional visualization of response codes and success status messages.
-  ![Response Dashboard](Screenshot/Response Dashboard.png)
+  ![Response Dashboard](Screenshot/Response_Dashboard.png)
 
 </details>
 
