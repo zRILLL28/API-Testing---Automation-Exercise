@@ -65,8 +65,3 @@ Detailed evidence of the testing process and data analysis.
 3.  **Execute:**
     * Select any request and click **Send**.
     * Check the **Body > Visualization** tab for the graphical report.
-
----
-**Contact & Profile:**
-* **GitHub:** [zRILLL28](https://github.com/zRILLL28)
-* **Role:** Aspiring QA Engineer | Data Analyst
