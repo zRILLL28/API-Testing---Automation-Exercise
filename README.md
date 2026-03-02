@@ -52,8 +52,9 @@ Detailed evidence of the testing process and data analysis.
   Professional visualization of response codes and success status messages.
   ![Response Dashboard](Screenshot/Response_Dashboard.png)
 
-  API Response if Error / Bad Request
-  ![Bad Request](Screenshot/BadRequest.png).
+  ### 5. Negative Testing (Error Handling)
+  Validation of the system's behavior when mandatory parameters are missing. The API correctly returns a 400 Bad Request status with a descriptive error message.
+  ![Error Handling](Screenshot/BadRequest.png)
 
 </details>
 
