@@ -52,6 +52,9 @@ Detailed evidence of the testing process and data analysis.
   Professional visualization of response codes and success status messages.
   ![Response Dashboard](Screenshot/Response_Dashboard.png)
 
+  API Response if Error / Bad Request
+  ![Bad Request](Screenshot/BadRequest.png).
+
 </details>
 
 ## ⚙️ How to Run
